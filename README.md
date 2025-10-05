@@ -42,13 +42,13 @@ Build a deep learning model to classify IMDb movie reviews as **Positive** or **
 ---
 
 ## 📈 Visualization
-**Training vs Validation Accuracy**  
+
+### Training vs Validation Accuracy
 A line plot was generated to visualize accuracy trends across epochs for both training and validation data.  
 This helps assess model learning stability and potential overfitting.
 
-*(If you upload the plot image, reference it like this below)*  
-```markdown
-![Accuracy Plot](results/accuracy_plot.png)
+![Training vs Validation Accuracy](results/accuracy_plot.png)
+
 ---
 
 ## 🧑‍💻 Author
