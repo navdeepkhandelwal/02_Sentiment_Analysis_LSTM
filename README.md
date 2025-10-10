@@ -49,6 +49,8 @@ This helps assess model learning stability and potential overfitting.
 
 ![Training vs Validation Accuracy](results/accuracy_plot.png)
 
+- Deploy model using Streamlit or Flask in future updates
+
 ---
 
 ## 🧑‍💻 Author
