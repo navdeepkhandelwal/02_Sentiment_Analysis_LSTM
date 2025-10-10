@@ -4,6 +4,6 @@ numpy
 pandas
 matplotlib
 keras
+joblib
+h5py
 
-joblib 
-joblib 
